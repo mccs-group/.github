@@ -1,4 +1,4 @@
-## multi-disciplinary compilers & computer science group (mccs-group)
+## Multi-Disciplinary Compilers & Computer Science Group (MCCS-group)
 
 is a research group which focuses on:
 
