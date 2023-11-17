@@ -1,6 +1,6 @@
 ## multi-disciplinary compilers & computer science group (mccs-group)
 
- is a research group which focuses on:
+is a research group which focuses on:
 
 - compiler auto-tuning via phase-ordering
   
